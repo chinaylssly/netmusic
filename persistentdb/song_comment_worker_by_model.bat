@@ -1,0 +1,2 @@
+python song_comment_worker_by_model.py
+pause

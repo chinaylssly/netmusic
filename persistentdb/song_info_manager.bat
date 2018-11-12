@@ -1,0 +1,2 @@
+python song_info_manager.py
+pause

@@ -1,0 +1,277 @@
+2018-06-19 12:13:00,818 - song_info_worker.py - [line:152] - INFO :runing test to test avg_time
+2018-06-19 12:13:00,819 - song_info_worker.py - [line:161] - INFO :wait 100 second try to get element from queue
+2018-06-19 12:13:00,822 - song_info_worker.py - [line:163] - INFO :get {'ids': u'557584888', 'refer': 2251327081L} from queue
+2018-06-19 12:13:00,826 - song_info_worker.py - [line:168] - INFO :test start new threading, get song ids=557584888,threading name is:MainThread,pid is:7732
+2018-06-19 12:13:00,832 - song_info_worker.py - [line:161] - INFO :wait 100 second try to get element from queue
+2018-06-19 12:13:00,835 - song_info_worker.py - [line:163] - INFO :get {'ids': u'34923114', 'refer': 2251327081L} from queue
+2018-06-19 12:13:00,844 - connectionpool.py - [line:208] - DEBUG :Starting new HTTP connection (1): music.163.com
+2018-06-19 12:13:00,844 - song_info_worker.py - [line:168] - INFO :test start new threading, get song ids=34923114,threading name is:MainThread,pid is:7732
+2018-06-19 12:13:00,846 - song_info_worker.py - [line:161] - INFO :wait 100 second try to get element from queue
+2018-06-19 12:13:00,848 - song_info_worker.py - [line:163] - INFO :get {'ids': u'28935309', 'refer': 2251327081L} from queue
+2018-06-19 12:13:00,854 - connectionpool.py - [line:208] - DEBUG :Starting new HTTP connection (1): music.163.com
+2018-06-19 12:13:00,857 - song_info_worker.py - [line:168] - INFO :test start new threading, get song ids=28935309,threading name is:MainThread,pid is:7732
+2018-06-19 12:13:00,857 - song_info_worker.py - [line:161] - INFO :wait 100 second try to get element from queue
+2018-06-19 12:13:00,858 - song_info_worker.py - [line:163] - INFO :get {'ids': u'407759451', 'refer': 2251327081L} from queue
+2018-06-19 12:13:00,868 - song_info_worker.py - [line:168] - INFO :test start new threading, get song ids=407759451,threading name is:MainThread,pid is:7732
+2018-06-19 12:13:00,868 - connectionpool.py - [line:208] - DEBUG :Starting new HTTP connection (1): music.163.com
+2018-06-19 12:13:00,869 - song_info_worker.py - [line:161] - INFO :wait 100 second try to get element from queue
+2018-06-19 12:13:00,872 - song_info_worker.py - [line:163] - INFO :get {'ids': u'27646198', 'refer': 2251327081L} from queue
+2018-06-19 12:13:00,881 - song_info_worker.py - [line:168] - INFO :test start new threading, get song ids=27646198,threading name is:MainThread,pid is:7732
+2018-06-19 12:13:00,884 - song_info_worker.py - [line:161] - INFO :wait 100 second try to get element from queue
+2018-06-19 12:13:00,887 - song_info_worker.py - [line:163] - INFO :get {'ids': u'27646199', 'refer': 2251327081L} from queue
+2018-06-19 12:13:00,891 - connectionpool.py - [line:208] - DEBUG :Starting new HTTP connection (1): music.163.com
+2018-06-19 12:13:00,898 - song_info_worker.py - [line:168] - INFO :test start new threading, get song ids=27646199,threading name is:MainThread,pid is:7732
+2018-06-19 12:13:00,898 - connectionpool.py - [line:208] - DEBUG :Starting new HTTP connection (1): music.163.com
+2018-06-19 12:13:00,901 - song_info_worker.py - [line:161] - INFO :wait 100 second try to get element from queue
+2018-06-19 12:13:00,904 - song_info_worker.py - [line:163] - INFO :get {'ids': u'29771089', 'refer': 2251327081L} from queue
+2018-06-19 12:13:00,907 - song_info_worker.py - [line:168] - INFO :test start new threading, get song ids=29771089,threading name is:MainThread,pid is:7732
+2018-06-19 12:13:00,910 - song_info_worker.py - [line:161] - INFO :wait 100 second try to get element from queue
+2018-06-19 12:13:00,913 - song_info_worker.py - [line:163] - INFO :get {'ids': u'450853439', 'refer': 2251327081L} from queue
+2018-06-19 12:13:00,924 - connectionpool.py - [line:208] - DEBUG :Starting new HTTP connection (1): music.163.com
+2018-06-19 12:13:00,924 - song_info_worker.py - [line:168] - INFO :test start new threading, get song ids=450853439,threading name is:MainThread,pid is:7732
+2018-06-19 12:13:00,928 - song_info_worker.py - [line:161] - INFO :wait 100 second try to get element from queue
+2018-06-19 12:13:00,931 - song_info_worker.py - [line:163] - INFO :get {'ids': u'564699322', 'refer': 2251327081L} from queue
+2018-06-19 12:13:00,934 - connectionpool.py - [line:208] - DEBUG :Starting new HTTP connection (1): music.163.com
+2018-06-19 12:13:00,940 - song_info_worker.py - [line:168] - INFO :test start new threading, get song ids=564699322,threading name is:MainThread,pid is:7732
+2018-06-19 12:13:00,943 - song_info_worker.py - [line:161] - INFO :wait 100 second try to get element from queue
+2018-06-19 12:13:00,946 - song_info_worker.py - [line:163] - INFO :get {'ids': u'568455515', 'refer': 2251327081L} from queue
+2018-06-19 12:13:00,950 - connectionpool.py - [line:208] - DEBUG :Starting new HTTP connection (1): music.163.com
+2018-06-19 12:13:00,957 - connectionpool.py - [line:208] - DEBUG :Starting new HTTP connection (1): music.163.com
+2018-06-19 12:13:00,957 - song_info_worker.py - [line:168] - INFO :test start new threading, get song ids=568455515,threading name is:MainThread,pid is:7732
+2018-06-19 12:13:00,960 - song_info_worker.py - [line:161] - INFO :wait 100 second try to get element from queue
+2018-06-19 12:13:00,961 - song_info_worker.py - [line:163] - INFO :get {'ids': u'568453025', 'refer': 2251327081L} from queue
+2018-06-19 12:13:00,970 - song_info_worker.py - [line:168] - INFO :test start new threading, get song ids=568453025,threading name is:MainThread,pid is:7732
+2018-06-19 12:13:00,971 - song_info_worker.py - [line:161] - INFO :wait 100 second try to get element from queue
+2018-06-19 12:13:00,971 - connectionpool.py - [line:208] - DEBUG :Starting new HTTP connection (1): music.163.com
+2018-06-19 12:13:00,973 - song_info_worker.py - [line:163] - INFO :get {'ids': u'458238990', 'refer': 2251327081L} from queue
+2018-06-19 12:13:00,980 - song_info_worker.py - [line:168] - INFO :test start new threading, get song ids=458238990,threading name is:MainThread,pid is:7732
+2018-06-19 12:13:00,983 - song_info_worker.py - [line:161] - INFO :wait 100 second try to get element from queue
+2018-06-19 12:13:00,984 - song_info_worker.py - [line:163] - INFO :get {'ids': u'167975', 'refer': 2251327081L} from queue
+2018-06-19 12:13:00,984 - connectionpool.py - [line:208] - DEBUG :Starting new HTTP connection (1): music.163.com
+2018-06-19 12:13:00,989 - song_info_worker.py - [line:168] - INFO :test start new threading, get song ids=167975,threading name is:MainThread,pid is:7732
+2018-06-19 12:13:00,990 - song_info_worker.py - [line:161] - INFO :wait 100 second try to get element from queue
+2018-06-19 12:13:00,990 - song_info_worker.py - [line:163] - INFO :get {'ids': u'108108', 'refer': 2251327081L} from queue
+2018-06-19 12:13:00,993 - song_info_worker.py - [line:168] - INFO :test start new threading, get song ids=108108,threading name is:MainThread,pid is:7732
+2018-06-19 12:13:00,993 - song_info_worker.py - [line:161] - INFO :wait 100 second try to get element from queue
+2018-06-19 12:13:00,994 - song_info_worker.py - [line:163] - INFO :get {'ids': u'33544485', 'refer': 2251327081L} from queue
+2018-06-19 12:13:00,997 - song_info_worker.py - [line:168] - INFO :test start new threading, get song ids=33544485,threading name is:MainThread,pid is:7732
+2018-06-19 12:13:00,997 - song_info_worker.py - [line:161] - INFO :wait 100 second try to get element from queue
+2018-06-19 12:13:00,999 - song_info_worker.py - [line:163] - INFO :get {'ids': u'247172', 'refer': 2251327081L} from queue
+2018-06-19 12:13:01,002 - song_info_worker.py - [line:168] - INFO :test start new threading, get song ids=247172,threading name is:MainThread,pid is:7732
+2018-06-19 12:13:01,002 - song_info_worker.py - [line:161] - INFO :wait 100 second try to get element from queue
+2018-06-19 12:13:01,003 - song_info_worker.py - [line:163] - INFO :get {'ids': u'26508186', 'refer': 2251327081L} from queue
+2018-06-19 12:13:01,006 - song_info_worker.py - [line:168] - INFO :test start new threading, get song ids=26508186,threading name is:MainThread,pid is:7732
+2018-06-19 12:13:01,006 - song_info_worker.py - [line:161] - INFO :wait 100 second try to get element from queue
+2018-06-19 12:13:01,006 - song_info_worker.py - [line:163] - INFO :get {'ids': u'38576323', 'refer': 2251327081L} from queue
+2018-06-19 12:13:01,010 - song_info_worker.py - [line:168] - INFO :test start new threading, get song ids=38576323,threading name is:MainThread,pid is:7732
+2018-06-19 12:13:01,010 - song_info_worker.py - [line:161] - INFO :wait 100 second try to get element from queue
+2018-06-19 12:13:01,012 - song_info_worker.py - [line:163] - INFO :get {'ids': u'27646205', 'refer': 2251327081L} from queue
+2018-06-19 12:13:01,015 - song_info_worker.py - [line:168] - INFO :test start new threading, get song ids=27646205,threading name is:MainThread,pid is:7732
+2018-06-19 12:13:01,015 - song_info_worker.py - [line:161] - INFO :wait 100 second try to get element from queue
+2018-06-19 12:13:01,016 - song_info_worker.py - [line:163] - INFO :get {'ids': u'27901416', 'refer': 2253831210L} from queue
+2018-06-19 12:13:01,032 - song_info_worker.py - [line:168] - INFO :test start new threading, get song ids=27901416,threading name is:MainThread,pid is:7732
+2018-06-19 12:13:01,032 - song_info_worker.py - [line:161] - INFO :wait 100 second try to get element from queue
+2018-06-19 12:13:01,033 - song_info_worker.py - [line:163] - INFO :get {'ids': u'519835', 'refer': 2253831210L} from queue
+2018-06-19 12:13:01,042 - connectionpool.py - [line:396] - DEBUG :http://music.163.com:80 "GET /song?id=557584888 HTTP/1.1" 200 None
+2018-06-19 12:13:01,045 - song_info_worker.py - [line:168] - INFO :test start new threading, get song ids=519835,threading name is:MainThread,pid is:7732
+2018-06-19 12:13:01,046 - song_info_worker.py - [line:161] - INFO :wait 100 second try to get element from queue
+2018-06-19 12:13:01,048 - song_info_worker.py - [line:163] - INFO :get {'ids': u'28762197', 'refer': 2253831210L} from queue
+2018-06-19 12:13:01,051 - song_info_worker.py - [line:168] - INFO :test start new threading, get song ids=28762197,threading name is:MainThread,pid is:7732
+2018-06-19 12:13:01,051 - song_info_worker.py - [line:161] - INFO :wait 100 second try to get element from queue
+2018-06-19 12:13:01,053 - song_info_worker.py - [line:163] - INFO :get {'ids': u'406096033', 'refer': 2253831210L} from queue
+2018-06-19 12:13:01,056 - song_info_worker.py - [line:168] - INFO :test start new threading, get song ids=406096033,threading name is:MainThread,pid is:7732
+2018-06-19 12:13:01,058 - song_info_worker.py - [line:161] - INFO :wait 100 second try to get element from queue
+2018-06-19 12:13:01,059 - song_info_worker.py - [line:163] - INFO :get {'ids': u'28762195', 'refer': 2253831210L} from queue
+2018-06-19 12:13:01,062 - song_info_worker.py - [line:168] - INFO :test start new threading, get song ids=28762195,threading name is:MainThread,pid is:7732
+2018-06-19 12:13:01,062 - song_info_worker.py - [line:161] - INFO :wait 100 second try to get element from queue
+2018-06-19 12:13:01,062 - song_info_worker.py - [line:163] - INFO :get {'ids': u'28762194', 'refer': 2253831210L} from queue
+2018-06-19 12:13:01,065 - song_info_worker.py - [line:168] - INFO :test start new threading, get song ids=28762194,threading name is:MainThread,pid is:7732
+2018-06-19 12:13:01,066 - song_info_worker.py - [line:161] - INFO :wait 100 second try to get element from queue
+2018-06-19 12:13:01,066 - song_info_worker.py - [line:163] - INFO :get {'ids': u'4902330', 'refer': 2253831210L} from queue
+2018-06-19 12:13:01,071 - song_info_worker.py - [line:168] - INFO :test start new threading, get song ids=4902330,threading name is:MainThread,pid is:7732
+2018-06-19 12:13:01,071 - song_info_worker.py - [line:161] - INFO :wait 100 second try to get element from queue
+2018-06-19 12:13:01,072 - song_info_worker.py - [line:163] - INFO :get {'ids': u'22706288', 'refer': 2253831210L} from queue
+2018-06-19 12:13:01,075 - song_info_worker.py - [line:168] - INFO :test start new threading, get song ids=22706288,threading name is:MainThread,pid is:7732
+2018-06-19 12:13:01,075 - song_info_worker.py - [line:161] - INFO :wait 100 second try to get element from queue
+2018-06-19 12:13:01,075 - song_info_worker.py - [line:163] - INFO :get {'ids': u'28762191', 'refer': 2253831210L} from queue
+2018-06-19 12:13:01,079 - song_info_worker.py - [line:168] - INFO :test start new threading, get song ids=28762191,threading name is:MainThread,pid is:7732
+2018-06-19 12:13:01,079 - song_info_worker.py - [line:161] - INFO :wait 100 second try to get element from queue
+2018-06-19 12:13:01,081 - song_info_worker.py - [line:163] - INFO :get {'ids': u'27583162', 'refer': 2253831210L} from queue
+2018-06-19 12:13:01,084 - song_info_worker.py - [line:168] - INFO :test start new threading, get song ids=27583162,threading name is:MainThread,pid is:7732
+2018-06-19 12:13:01,084 - song_info_worker.py - [line:161] - INFO :wait 100 second try to get element from queue
+2018-06-19 12:13:01,085 - song_info_worker.py - [line:163] - INFO :get {'ids': u'642931', 'refer': 2253831210L} from queue
+2018-06-19 12:13:01,088 - song_info_worker.py - [line:168] - INFO :test start new threading, get song ids=642931,threading name is:MainThread,pid is:7732
+2018-06-19 12:13:01,088 - song_info_worker.py - [line:161] - INFO :wait 100 second try to get element from queue
+2018-06-19 12:13:01,089 - song_info_worker.py - [line:163] - INFO :get {'ids': u'554916', 'refer': 2253831210L} from queue
+2018-06-19 12:13:01,092 - song_info_worker.py - [line:168] - INFO :test start new threading, get song ids=554916,threading name is:MainThread,pid is:7732
+2018-06-19 12:13:01,092 - song_info_worker.py - [line:161] - INFO :wait 100 second try to get element from queue
+2018-06-19 12:13:01,094 - song_info_worker.py - [line:163] - INFO :get {'ids': u'25729097', 'refer': 2253831210L} from queue
+2018-06-19 12:13:01,096 - song_info_worker.py - [line:168] - INFO :test start new threading, get song ids=25729097,threading name is:MainThread,pid is:7732
+2018-06-19 12:13:01,096 - song_info_worker.py - [line:161] - INFO :wait 100 second try to get element from queue
+2018-06-19 12:13:01,099 - song_info_worker.py - [line:163] - INFO :get {'ids': u'462612445', 'refer': 2253831210L} from queue
+2018-06-19 12:13:01,107 - song_info_worker.py - [line:168] - INFO :test start new threading, get song ids=462612445,threading name is:MainThread,pid is:7732
+2018-06-19 12:13:11,010 - connectionpool.py - [line:396] - DEBUG :http://music.163.com:80 "GET /song?id=34923114 HTTP/1.1" 200 None
+2018-06-19 12:13:11,010 - connectionpool.py - [line:396] - DEBUG :http://music.163.com:80 "GET /song?id=28935309 HTTP/1.1" 200 None
+2018-06-19 12:13:11,068 - connectionpool.py - [line:396] - DEBUG :http://music.163.com:80 "GET /song?id=407759451 HTTP/1.1" 200 None
+2018-06-19 12:13:13,063 - connectionpool.py - [line:396] - DEBUG :http://music.163.com:80 "GET /song?id=27646198 HTTP/1.1" 200 None
+2018-06-19 12:13:15,173 - multi.py - [line:43] - DEBUG :id=557584888 song is:往后余生,singer is:马良
+2018-06-19 12:13:15,299 - persistentdb.py - [line:35] - INFO :fetchall count is：0
+2018-06-19 12:13:15,299 - mysqlpool.py - [line:221] - INFO :successfully insert_table_song
+2018-06-19 12:13:15,301 - multi.py - [line:68] - INFO :try to close mysql connect avoid to many connect
+2018-06-19 12:13:15,303 - multi.py - [line:70] - DEBUG :finish insert_song threading,total cost time is:14.4730000496
+2018-06-19 12:13:15,309 - connectionpool.py - [line:208] - DEBUG :Starting new HTTP connection (1): music.163.com
+2018-06-19 12:13:27,354 - multi.py - [line:43] - DEBUG :id=27646198 song is:董小姐,singer is:宋冬野
+2018-06-19 12:13:27,361 - multi.py - [line:43] - DEBUG :id=28935309 song is:我的名字叫做安,singer is:安来宁
+2018-06-19 12:13:27,427 - persistentdb.py - [line:35] - INFO :fetchall count is：0
+2018-06-19 12:13:27,428 - mysqlpool.py - [line:221] - INFO :successfully insert_table_song
+2018-06-19 12:13:27,428 - multi.py - [line:68] - INFO :try to close mysql connect avoid to many connect
+2018-06-19 12:13:27,431 - multi.py - [line:70] - DEBUG :finish insert_song threading,total cost time is:26.5709998608
+2018-06-19 12:13:27,438 - connectionpool.py - [line:208] - DEBUG :Starting new HTTP connection (1): music.163.com
+2018-06-19 12:13:27,443 - persistentdb.py - [line:35] - INFO :fetchall count is：0
+2018-06-19 12:13:27,444 - mysqlpool.py - [line:221] - INFO :successfully insert_table_song
+2018-06-19 12:13:27,444 - multi.py - [line:68] - INFO :try to close mysql connect avoid to many connect
+2018-06-19 12:13:27,448 - multi.py - [line:70] - DEBUG :finish insert_song threading,total cost time is:26.5639998913
+2018-06-19 12:13:27,456 - connectionpool.py - [line:208] - DEBUG :Starting new HTTP connection (1): music.163.com
+2018-06-19 12:13:28,852 - multi.py - [line:43] - DEBUG :id=34923114 song is:晚安,singer is:丢火车
+2018-06-19 12:13:28,928 - persistentdb.py - [line:35] - INFO :fetchall count is：0
+2018-06-19 12:13:28,928 - mysqlpool.py - [line:221] - INFO :successfully insert_table_song
+2018-06-19 12:13:28,930 - multi.py - [line:68] - INFO :try to close mysql connect avoid to many connect
+2018-06-19 12:13:28,934 - multi.py - [line:70] - DEBUG :finish insert_song threading,total cost time is:28.0859999657
+2018-06-19 12:13:28,940 - connectionpool.py - [line:208] - DEBUG :Starting new HTTP connection (1): music.163.com
+2018-06-19 12:13:29,134 - connectionpool.py - [line:396] - DEBUG :http://music.163.com:80 "GET /song?id=33544485 HTTP/1.1" 200 None
+2018-06-19 12:13:29,354 - connectionpool.py - [line:396] - DEBUG :http://music.163.com:80 "GET /song?id=29771089 HTTP/1.1" 200 None
+2018-06-19 12:13:29,354 - connectionpool.py - [line:396] - DEBUG :http://music.163.com:80 "GET /song?id=27646199 HTTP/1.1" 200 None
+2018-06-19 12:13:29,467 - multi.py - [line:43] - DEBUG :id=33544485 song is:北方女王,singer is:尧十三
+2018-06-19 12:13:29,509 - persistentdb.py - [line:35] - INFO :fetchall count is：0
+2018-06-19 12:13:29,510 - mysqlpool.py - [line:221] - INFO :successfully insert_table_song
+2018-06-19 12:13:29,512 - multi.py - [line:68] - INFO :try to close mysql connect avoid to many connect
+2018-06-19 12:13:29,515 - multi.py - [line:70] - DEBUG :finish insert_song threading,total cost time is:0.577000141144
+2018-06-19 12:13:29,522 - connectionpool.py - [line:208] - DEBUG :Starting new HTTP connection (1): music.163.com
+2018-06-19 12:13:40,045 - connectionpool.py - [line:396] - DEBUG :http://music.163.com:80 "GET /song?id=450853439 HTTP/1.1" 200 None
+2018-06-19 12:13:40,049 - connectionpool.py - [line:396] - DEBUG :http://music.163.com:80 "GET /song?id=568453025 HTTP/1.1" 200 None
+2018-06-19 12:13:40,049 - connectionpool.py - [line:396] - DEBUG :http://music.163.com:80 "GET /song?id=564699322 HTTP/1.1" 200 None
+2018-06-19 12:13:40,051 - connectionpool.py - [line:396] - DEBUG :http://music.163.com:80 "GET /song?id=568455515 HTTP/1.1" 200 None
+2018-06-19 12:13:41,082 - connectionpool.py - [line:208] - DEBUG :Starting new HTTP connection (1): music.163.com
+2018-06-19 12:13:45,954 - connectionpool.py - [line:208] - DEBUG :Starting new HTTP connection (1): music.163.com
+2018-06-19 12:13:46,105 - connectionpool.py - [line:208] - DEBUG :Starting new HTTP connection (1): music.163.com
+2018-06-19 12:13:46,109 - connectionpool.py - [line:208] - DEBUG :Starting new HTTP connection (1): music.163.com
+2018-06-19 12:13:56,454 - connectionpool.py - [line:396] - DEBUG :http://music.163.com:80 "GET /song?id=247172 HTTP/1.1" 200 None
+2018-06-19 12:14:04,522 - connectionpool.py - [line:396] - DEBUG :http://music.163.com:80 "GET /song?id=38576323 HTTP/1.1" 200 None
+2018-06-19 12:14:04,526 - connectionpool.py - [line:396] - DEBUG :http://music.163.com:80 "GET /song?id=26508186 HTTP/1.1" 200 None
+2018-06-19 12:14:04,539 - connectionpool.py - [line:396] - DEBUG :http://music.163.com:80 "GET /song?id=27646205 HTTP/1.1" 200 None
+2018-06-19 12:14:04,558 - connectionpool.py - [line:396] - DEBUG :http://music.163.com:80 "GET /song?id=27901416 HTTP/1.1" 200 None
+2018-06-19 12:14:11,986 - multi.py - [line:43] - DEBUG :id=27646199 song is:斑马，斑马,singer is:宋冬野
+2018-06-19 12:14:12,173 - persistentdb.py - [line:35] - INFO :fetchall count is：0
+2018-06-19 12:14:12,176 - mysqlpool.py - [line:221] - INFO :successfully insert_table_song
+2018-06-19 12:14:12,180 - multi.py - [line:68] - INFO :try to close mysql connect avoid to many connect
+2018-06-19 12:14:12,188 - multi.py - [line:70] - DEBUG :finish insert_song threading,total cost time is:71.2820000648
+2018-06-19 12:14:12,240 - connectionpool.py - [line:208] - DEBUG :Starting new HTTP connection (1): music.163.com
+2018-06-19 12:14:12,756 - multi.py - [line:43] - DEBUG :id=29771089 song is:他妈的,singer is:尧十三
+2018-06-19 12:14:12,759 - multi.py - [line:43] - DEBUG :id=38576323 song is:春风十里,singer is:鹿先森乐队
+2018-06-19 12:14:12,772 - persistentdb.py - [line:35] - INFO :fetchall count is：0
+2018-06-19 12:14:12,773 - mysqlpool.py - [line:221] - INFO :successfully insert_table_song
+2018-06-19 12:14:12,773 - multi.py - [line:68] - INFO :try to close mysql connect avoid to many connect
+2018-06-19 12:14:12,778 - multi.py - [line:43] - DEBUG :id=27646205 song is:安和桥,singer is:宋冬野
+2018-06-19 12:14:12,778 - multi.py - [line:70] - DEBUG :finish insert_song threading,total cost time is:26.8239998817
+2018-06-19 12:14:12,789 - connectionpool.py - [line:208] - DEBUG :Starting new HTTP connection (1): music.163.com
+2018-06-19 12:14:12,793 - multi.py - [line:43] - DEBUG :id=26508186 song is:天空之城,singer is:李志
+2018-06-19 12:14:12,801 - persistentdb.py - [line:35] - INFO :fetchall count is：0
+2018-06-19 12:14:12,802 - mysqlpool.py - [line:221] - INFO :successfully insert_table_song
+2018-06-19 12:14:12,802 - multi.py - [line:68] - INFO :try to close mysql connect avoid to many connect
+2018-06-19 12:14:12,808 - multi.py - [line:70] - DEBUG :finish insert_song threading,total cost time is:31.7290000916
+2018-06-19 12:14:12,815 - connectionpool.py - [line:208] - DEBUG :Starting new HTTP connection (1): music.163.com
+2018-06-19 12:14:12,828 - persistentdb.py - [line:35] - INFO :fetchall count is：0
+2018-06-19 12:14:12,828 - mysqlpool.py - [line:221] - INFO :successfully insert_table_song
+2018-06-19 12:14:12,829 - multi.py - [line:68] - INFO :try to close mysql connect avoid to many connect
+2018-06-19 12:14:12,834 - multi.py - [line:70] - DEBUG :finish insert_song threading,total cost time is:71.9210000038
+2018-06-19 12:14:12,839 - connectionpool.py - [line:208] - DEBUG :Starting new HTTP connection (1): music.163.com
+2018-06-19 12:14:12,846 - persistentdb.py - [line:35] - INFO :fetchall count is：0
+2018-06-19 12:14:12,846 - mysqlpool.py - [line:221] - INFO :successfully insert_table_song
+2018-06-19 12:14:12,848 - multi.py - [line:68] - INFO :try to close mysql connect avoid to many connect
+2018-06-19 12:14:12,851 - multi.py - [line:70] - DEBUG :finish insert_song threading,total cost time is:26.7669999599
+2018-06-19 12:14:12,858 - connectionpool.py - [line:208] - DEBUG :Starting new HTTP connection (1): music.163.com
+2018-06-19 12:14:15,532 - connectionpool.py - [line:396] - DEBUG :http://music.163.com:80 "GET /song?id=28762194 HTTP/1.1" 200 None
+2018-06-19 12:14:15,589 - connectionpool.py - [line:396] - DEBUG :http://music.163.com:80 "GET /song?id=406096033 HTTP/1.1" 200 None
+2018-06-19 12:14:15,599 - connectionpool.py - [line:396] - DEBUG :http://music.163.com:80 "GET /song?id=519835 HTTP/1.1" 200 None
+2018-06-19 12:14:15,609 - connectionpool.py - [line:396] - DEBUG :http://music.163.com:80 "GET /song?id=28762197 HTTP/1.1" 200 None
+2018-06-19 12:14:16,549 - multi.py - [line:43] - DEBUG :id=27901416 song is:哆啦a梦,singer is:山野さと子
+2018-06-19 12:14:16,575 - persistentdb.py - [line:35] - INFO :fetchall count is：0
+2018-06-19 12:14:16,578 - mysqlpool.py - [line:221] - INFO :successfully insert_table_song
+2018-06-19 12:14:16,581 - multi.py - [line:68] - INFO :try to close mysql connect avoid to many connect
+2018-06-19 12:14:16,588 - multi.py - [line:70] - DEBUG :finish insert_song threading,total cost time is:30.4910001755
+2018-06-19 12:14:16,612 - connectionpool.py - [line:208] - DEBUG :Starting new HTTP connection (1): music.163.com
+2018-06-19 12:14:17,157 - multi.py - [line:43] - DEBUG :id=519835 song is:ソフィアとともだち,singer is:沢田完
+2018-06-19 12:14:17,170 - multi.py - [line:43] - DEBUG :id=406096033 song is:空へ,singer is:山崎まさよし
+2018-06-19 12:14:17,177 - persistentdb.py - [line:35] - INFO :fetchall count is：0
+2018-06-19 12:14:17,178 - mysqlpool.py - [line:221] - INFO :successfully insert_table_song
+2018-06-19 12:14:17,178 - multi.py - [line:68] - INFO :try to close mysql connect avoid to many connect
+2018-06-19 12:14:17,181 - multi.py - [line:70] - DEBUG :finish insert_song threading,total cost time is:4.98199987411
+2018-06-19 12:14:17,187 - persistentdb.py - [line:35] - INFO :fetchall count is：0
+2018-06-19 12:14:17,190 - mysqlpool.py - [line:221] - INFO :successfully insert_table_song
+2018-06-19 12:14:17,191 - multi.py - [line:68] - INFO :try to close mysql connect avoid to many connect
+2018-06-19 12:14:17,191 - multi.py - [line:43] - DEBUG :id=28762194 song is:世界はグー・チョキ・パー,singer is:V.A.
+2018-06-19 12:14:17,194 - connectionpool.py - [line:208] - DEBUG :Starting new HTTP connection (1): music.163.com
+2018-06-19 12:14:17,197 - multi.py - [line:70] - DEBUG :finish insert_song threading,total cost time is:4.382999897
+2018-06-19 12:14:17,207 - connectionpool.py - [line:208] - DEBUG :Starting new HTTP connection (1): music.163.com
+2018-06-19 12:14:17,267 - persistentdb.py - [line:35] - INFO :fetchall count is：1
+2018-06-19 12:14:17,269 - mysqlpool.py - [line:221] - INFO :successfully insert_table_song
+2018-06-19 12:14:17,269 - multi.py - [line:68] - INFO :try to close mysql connect avoid to many connect
+2018-06-19 12:14:17,270 - multi.py - [line:70] - DEBUG :finish insert_song threading,total cost time is:4.41700005531
+2018-06-19 12:14:17,278 - connectionpool.py - [line:208] - DEBUG :Starting new HTTP connection (1): music.163.com
+2018-06-19 12:14:20,683 - connectionpool.py - [line:396] - DEBUG :http://music.163.com:80 "GET /song?id=28762195 HTTP/1.1" 200 None
+2018-06-19 12:14:26,469 - connectionpool.py - [line:208] - DEBUG :Starting new HTTP connection (1): music.163.com
+2018-06-19 12:14:26,482 - connectionpool.py - [line:208] - DEBUG :Starting new HTTP connection (1): music.163.com
+2018-06-19 12:14:26,509 - connectionpool.py - [line:208] - DEBUG :Starting new HTTP connection (1): music.163.com
+2018-06-19 12:14:26,510 - connectionpool.py - [line:208] - DEBUG :Starting new HTTP connection (1): music.163.com
+2018-06-19 12:14:31,022 - connectionpool.py - [line:396] - DEBUG :http://music.163.com:80 "GET /song?id=22706288 HTTP/1.1" 200 None
+2018-06-19 12:14:31,029 - connectionpool.py - [line:396] - DEBUG :http://music.163.com:80 "GET /song?id=4902330 HTTP/1.1" 200 None
+2018-06-19 12:14:31,029 - connectionpool.py - [line:396] - DEBUG :http://music.163.com:80 "GET /song?id=27583162 HTTP/1.1" 200 None
+2018-06-19 12:14:31,279 - connectionpool.py - [line:396] - DEBUG :http://music.163.com:80 "GET /song?id=642931 HTTP/1.1" 200 None
+2018-06-19 12:14:31,405 - multi.py - [line:43] - DEBUG :id=28762197 song is:遠い海から来たあなた,singer is:V.A.
+2018-06-19 12:14:31,415 - persistentdb.py - [line:35] - INFO :fetchall count is：0
+2018-06-19 12:14:31,421 - mysqlpool.py - [line:221] - INFO :successfully insert_table_song
+2018-06-19 12:14:31,424 - multi.py - [line:68] - INFO :try to close mysql connect avoid to many connect
+2018-06-19 12:14:31,430 - multi.py - [line:70] - DEBUG :finish insert_song threading,total cost time is:18.6430001259
+2018-06-19 12:14:33,276 - multi.py - [line:43] - DEBUG :id=28762195 song is:さよならに さよなら,singer is:V.A.
+2018-06-19 12:14:33,280 - multi.py - [line:43] - DEBUG :id=4902330 song is:“ドラえもん のび太とブリキの迷宫”~何かいい事きっとある,singer is:島崎和歌子
+2018-06-19 12:14:33,285 - multi.py - [line:43] - DEBUG :id=22706288 song is:梦のゆくへ,singer is:白鳥英美子
+2018-06-19 12:14:33,309 - multi.py - [line:43] - DEBUG :id=27583162 song is:ボクノート,singer is:スキマスイッチ
+2018-06-19 12:14:33,312 - multi.py - [line:43] - DEBUG :id=642931 song is:大切にするよ,singer is:柴咲コウ
+2018-06-19 12:14:33,348 - persistentdb.py - [line:35] - INFO :fetchall count is：1
+2018-06-19 12:14:33,348 - mysqlpool.py - [line:221] - INFO :successfully insert_table_song
+2018-06-19 12:14:33,348 - multi.py - [line:68] - INFO :try to close mysql connect avoid to many connect
+2018-06-19 12:14:33,351 - multi.py - [line:70] - DEBUG :finish insert_song threading,total cost time is:20.5149998665
+2018-06-19 12:14:33,414 - persistentdb.py - [line:35] - INFO :fetchall count is：1
+2018-06-19 12:14:33,414 - mysqlpool.py - [line:221] - INFO :successfully insert_table_song
+2018-06-19 12:14:33,414 - multi.py - [line:68] - INFO :try to close mysql connect avoid to many connect
+2018-06-19 12:14:33,418 - multi.py - [line:70] - DEBUG :finish insert_song threading,total cost time is:16.8239998817
+2018-06-19 12:14:33,479 - persistentdb.py - [line:35] - INFO :fetchall count is：1
+2018-06-19 12:14:33,480 - mysqlpool.py - [line:221] - INFO :successfully insert_table_song
+2018-06-19 12:14:33,480 - multi.py - [line:68] - INFO :try to close mysql connect avoid to many connect
+2018-06-19 12:14:33,483 - multi.py - [line:70] - DEBUG :finish insert_song threading,total cost time is:16.2079999447
+2018-06-19 12:14:33,502 - persistentdb.py - [line:35] - INFO :fetchall count is：1
+2018-06-19 12:14:33,502 - persistentdb.py - [line:35] - INFO :fetchall count is：1
+2018-06-19 12:14:33,503 - mysqlpool.py - [line:221] - INFO :successfully insert_table_song
+2018-06-19 12:14:33,503 - mysqlpool.py - [line:221] - INFO :successfully insert_table_song
+2018-06-19 12:14:33,506 - multi.py - [line:68] - INFO :try to close mysql connect avoid to many connect
+2018-06-19 12:14:33,506 - multi.py - [line:68] - INFO :try to close mysql connect avoid to many connect
+2018-06-19 12:14:33,513 - multi.py - [line:70] - DEBUG :finish insert_song threading,total cost time is:7.04200005531
+2018-06-19 12:14:33,517 - multi.py - [line:70] - DEBUG :finish insert_song threading,total cost time is:16.3229999542
+2018-06-19 12:14:41,598 - connectionpool.py - [line:396] - DEBUG :http://music.163.com:80 "GET /song?id=554916 HTTP/1.1" 200 None
+2018-06-19 12:14:41,868 - multi.py - [line:43] - DEBUG :id=554916 song is:帰る场所,singer is:青山テルマ
+2018-06-19 12:14:42,073 - persistentdb.py - [line:35] - INFO :fetchall count is：1
+2018-06-19 12:14:42,075 - mysqlpool.py - [line:221] - INFO :successfully insert_table_song
+2018-06-19 12:14:42,075 - multi.py - [line:68] - INFO :try to close mysql connect avoid to many connect
+2018-06-19 12:14:42,088 - multi.py - [line:70] - DEBUG :finish insert_song threading,total cost time is:15.5970001221
+2018-06-19 12:14:50,548 - connectionpool.py - [line:396] - DEBUG :http://music.163.com:80 "GET /song?id=462612445 HTTP/1.1" 200 None
+2018-06-19 12:14:50,553 - connectionpool.py - [line:396] - DEBUG :http://music.163.com:80 "GET /song?id=25729097 HTTP/1.1" 200 None
+2018-06-19 12:14:51,573 - multi.py - [line:43] - DEBUG :id=25729097 song is:未来のミュージアム,singer is:Perfume
+2018-06-19 12:14:51,582 - multi.py - [line:43] - DEBUG :id=462612445 song is:僕の心をつくってよ,singer is:平井堅
+2018-06-19 12:14:51,618 - persistentdb.py - [line:35] - INFO :fetchall count is：0
+2018-06-19 12:14:51,618 - mysqlpool.py - [line:221] - INFO :successfully insert_table_song
+2018-06-19 12:14:51,618 - multi.py - [line:68] - INFO :try to close mysql connect avoid to many connect
+2018-06-19 12:14:51,621 - multi.py - [line:70] - DEBUG :finish insert_song threading,total cost time is:25.1259999275
+2018-06-19 12:14:51,673 - persistentdb.py - [line:35] - INFO :fetchall count is：1
+2018-06-19 12:14:51,674 - mysqlpool.py - [line:221] - INFO :successfully insert_table_song
+2018-06-19 12:14:51,674 - multi.py - [line:68] - INFO :try to close mysql connect avoid to many connect
+2018-06-19 12:14:51,677 - multi.py - [line:70] - DEBUG :finish insert_song threading,total cost time is:25.1819999218

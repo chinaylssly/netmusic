@@ -1,0 +1,2 @@
+python song_info_worker_by_model.py
+pause
